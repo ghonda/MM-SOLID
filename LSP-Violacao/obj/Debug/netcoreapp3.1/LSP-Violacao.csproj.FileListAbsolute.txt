@@ -1,0 +1,13 @@
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\bin\Debug\netcoreapp3.1\LSP-Violacao.exe
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\bin\Debug\netcoreapp3.1\LSP-Violacao.deps.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\bin\Debug\netcoreapp3.1\LSP-Violacao.runtimeconfig.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\bin\Debug\netcoreapp3.1\LSP-Violacao.runtimeconfig.dev.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\bin\Debug\netcoreapp3.1\LSP-Violacao.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\bin\Debug\netcoreapp3.1\LSP-Violacao.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\obj\Debug\netcoreapp3.1\LSP-Violacao.AssemblyInfoInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\obj\Debug\netcoreapp3.1\LSP-Violacao.AssemblyInfo.cs
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\obj\Debug\netcoreapp3.1\LSP-Violacao.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\obj\Debug\netcoreapp3.1\LSP-Violacao.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\obj\Debug\netcoreapp3.1\LSP-Violacao.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\obj\Debug\netcoreapp3.1\LSP-Violacao.genruntimeconfig.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Violacao\obj\Debug\netcoreapp3.1\LSP-Violacao.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\bin\Debug\netcoreapp3.1\OCP-Violacao.exe
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\bin\Debug\netcoreapp3.1\OCP-Violacao.deps.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\bin\Debug\netcoreapp3.1\OCP-Violacao.runtimeconfig.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\bin\Debug\netcoreapp3.1\OCP-Violacao.runtimeconfig.dev.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\bin\Debug\netcoreapp3.1\OCP-Violacao.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\bin\Debug\netcoreapp3.1\OCP-Violacao.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\obj\Debug\netcoreapp3.1\OCP-Violacao.csprojAssemblyReference.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\obj\Debug\netcoreapp3.1\OCP-Violacao.AssemblyInfoInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\obj\Debug\netcoreapp3.1\OCP-Violacao.AssemblyInfo.cs
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\obj\Debug\netcoreapp3.1\OCP-Violacao.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\obj\Debug\netcoreapp3.1\OCP-Violacao.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\obj\Debug\netcoreapp3.1\OCP-Violacao.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Violacao\obj\Debug\netcoreapp3.1\OCP-Violacao.genruntimeconfig.cache

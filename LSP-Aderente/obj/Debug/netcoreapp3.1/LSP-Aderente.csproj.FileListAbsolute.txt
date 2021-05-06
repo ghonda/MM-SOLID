@@ -1,0 +1,12 @@
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\bin\Debug\netcoreapp3.1\LSP-Aderente.exe
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\bin\Debug\netcoreapp3.1\LSP-Aderente.deps.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\bin\Debug\netcoreapp3.1\LSP-Aderente.runtimeconfig.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\bin\Debug\netcoreapp3.1\LSP-Aderente.runtimeconfig.dev.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\bin\Debug\netcoreapp3.1\LSP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\bin\Debug\netcoreapp3.1\LSP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.AssemblyInfoInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.AssemblyInfo.cs
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.genruntimeconfig.cache

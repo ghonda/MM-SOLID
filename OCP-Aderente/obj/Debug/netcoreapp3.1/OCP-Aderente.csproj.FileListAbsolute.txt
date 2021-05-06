@@ -1,0 +1,13 @@
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\bin\Debug\netcoreapp3.1\OCP-Aderente.exe
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\bin\Debug\netcoreapp3.1\OCP-Aderente.deps.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\bin\Debug\netcoreapp3.1\OCP-Aderente.runtimeconfig.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\bin\Debug\netcoreapp3.1\OCP-Aderente.runtimeconfig.dev.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\bin\Debug\netcoreapp3.1\OCP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\bin\Debug\netcoreapp3.1\OCP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\obj\Debug\netcoreapp3.1\OCP-Aderente.csprojAssemblyReference.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\obj\Debug\netcoreapp3.1\OCP-Aderente.AssemblyInfoInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\obj\Debug\netcoreapp3.1\OCP-Aderente.AssemblyInfo.cs
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\obj\Debug\netcoreapp3.1\OCP-Aderente.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\obj\Debug\netcoreapp3.1\OCP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\obj\Debug\netcoreapp3.1\OCP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\OCP-Aderente\obj\Debug\netcoreapp3.1\OCP-Aderente.genruntimeconfig.cache

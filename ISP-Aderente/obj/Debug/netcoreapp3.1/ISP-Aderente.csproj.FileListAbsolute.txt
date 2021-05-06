@@ -1,0 +1,12 @@
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\bin\Debug\netcoreapp3.1\ISP-Aderente.exe
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\bin\Debug\netcoreapp3.1\ISP-Aderente.deps.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\bin\Debug\netcoreapp3.1\ISP-Aderente.runtimeconfig.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\bin\Debug\netcoreapp3.1\ISP-Aderente.runtimeconfig.dev.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\bin\Debug\netcoreapp3.1\ISP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\bin\Debug\netcoreapp3.1\ISP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.AssemblyInfoInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.AssemblyInfo.cs
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.genruntimeconfig.cache

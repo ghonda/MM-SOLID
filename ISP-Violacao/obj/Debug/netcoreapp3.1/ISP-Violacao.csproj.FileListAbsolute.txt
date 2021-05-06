@@ -1,0 +1,13 @@
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\bin\Debug\netcoreapp3.1\ISP-Violacao.exe
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\bin\Debug\netcoreapp3.1\ISP-Violacao.deps.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\bin\Debug\netcoreapp3.1\ISP-Violacao.runtimeconfig.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\bin\Debug\netcoreapp3.1\ISP-Violacao.runtimeconfig.dev.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\bin\Debug\netcoreapp3.1\ISP-Violacao.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\bin\Debug\netcoreapp3.1\ISP-Violacao.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\obj\Debug\netcoreapp3.1\ISP-Violacao.csprojAssemblyReference.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\obj\Debug\netcoreapp3.1\ISP-Violacao.AssemblyInfoInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\obj\Debug\netcoreapp3.1\ISP-Violacao.AssemblyInfo.cs
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\obj\Debug\netcoreapp3.1\ISP-Violacao.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\obj\Debug\netcoreapp3.1\ISP-Violacao.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\obj\Debug\netcoreapp3.1\ISP-Violacao.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Violacao\obj\Debug\netcoreapp3.1\ISP-Violacao.genruntimeconfig.cache

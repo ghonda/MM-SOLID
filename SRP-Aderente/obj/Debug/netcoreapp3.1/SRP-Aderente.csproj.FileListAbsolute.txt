@@ -1,0 +1,4 @@
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.csprojAssemblyReference.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.AssemblyInfoInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.AssemblyInfo.cs
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.csproj.CoreCompileInputs.cache
