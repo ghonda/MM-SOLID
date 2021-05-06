@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-SRP", "1-SRP", "{D5615C85-A0BC-4515-8599-B16BCF9DC695}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP-Violacao", "SPR-Violacao\SRP-Violacao.csproj", "{3B40C685-6CA9-4741-8B10-AF70CA22D7ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP-Violacao", "SRP-Violacao\SRP-Violacao.csproj", "{3B40C685-6CA9-4741-8B10-AF70CA22D7ED}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP-Aderente", "SRP-Aderente\SRP-Aderente.csproj", "{3900AD0E-2773-4FB8-8204-2B7282704C92}"
 EndProject

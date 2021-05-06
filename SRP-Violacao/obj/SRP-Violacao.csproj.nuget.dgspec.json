@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SPR-Violacao\\SRP-Violacao.csproj": {}
+    "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SRP-Violacao\\SRP-Violacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SPR-Violacao\\SRP-Violacao.csproj": {
+    "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SRP-Violacao\\SRP-Violacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SPR-Violacao\\SRP-Violacao.csproj",
+        "projectUniqueName": "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SRP-Violacao\\SRP-Violacao.csproj",
         "projectName": "SRP-Violacao",
-        "projectPath": "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SPR-Violacao\\SRP-Violacao.csproj",
+        "projectPath": "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SRP-Violacao\\SRP-Violacao.csproj",
         "packagesPath": "C:\\Users\\GuilhermeHonda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SPR-Violacao\\obj\\",
+        "outputPath": "C:\\Users\\GuilhermeHonda\\source\\repos\\SOLID\\SRP-Violacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
