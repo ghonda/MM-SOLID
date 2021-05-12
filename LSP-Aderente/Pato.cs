@@ -10,14 +10,43 @@ namespace LSP_Aderente
     {
         void Nadar();
     }
-    public interface IQuack
+
+    public abstract class Pato
     {
-        void Quack();
+        public abstract void Quack();
+        public string Bico { get; set; }
+        public string Asa { get; set; }
     }
 
-    public class PatoSelvagem : IFly, ISwim, IQuack
+    public class PatoSelvagem : Pato, IFly, ISwim
     {
-        public void Quack()
+        public PatoSelvagem()
+        {
+            Bico = "Preto";
+            Asa = "Grande";
+        }
+        public override void Quack()
+        {
+            Console.WriteLine("QUACK!");
+        }
+        public void Nadar()
+        {
+            Console.WriteLine("Nadando!");
+        }
+        public void Voar()
+        {
+            Console.WriteLine("Voando!");
+        }
+    }
+
+    public class PatoDomestico : Pato, IFly, ISwim
+    {
+        public PatoDomestico()
+        {
+            Bico = "Amarelo";
+            Asa = "Pequena";
+        }
+        public override void Quack()
         {
             Console.WriteLine("Quack!");
         }
@@ -31,25 +60,14 @@ namespace LSP_Aderente
         }
     }
 
-    public class PatoDomestico : IFly, ISwim, IQuack
+    public class PatoBorracha : Pato, ISwim
     {
-        public void Quack()
+        public PatoBorracha()
         {
-            Console.WriteLine("Quack!");
+            Bico = "Amarelo";
+            Asa = "Borracha";
         }
-        public void Nadar()
-        {
-            Console.WriteLine("Nadando!");
-        }
-        public void Voar()
-        {
-            Console.WriteLine("Voando!");
-        }
-    }
-
-    public class PatoBorracha : ISwim, IQuack
-    {
-        public void Quack()
+        public override void Quack()
         {
             Console.WriteLine("Quack!");
         }

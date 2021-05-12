@@ -8,13 +8,21 @@ namespace LSP_Violacao
         public abstract void Nadar();
         public abstract void Voar();
 
+        public string Bico { get; set; }
+        public string Asa { get; set; }
     }
 
     public class PatoSelvagem : Pato
     {
+        public PatoSelvagem()
+        {
+            Bico = "Preto";
+            Asa = "Grande";
+        }
+
         public override void Quack()
         {
-            Console.WriteLine("Quack!");
+            Console.WriteLine("QUACK!!!!");
         }
         public override void Nadar()
         {
@@ -28,6 +36,12 @@ namespace LSP_Violacao
 
     public class PatoDomestico : Pato
     {
+        public PatoDomestico()
+        {
+            Bico = "Amarelo";
+            Asa = "Pequena";
+        }
+
         public override void Quack()
         {
             Console.WriteLine("Quack!");
@@ -44,6 +58,12 @@ namespace LSP_Violacao
 
     public class PatoBorracha : Pato
     {
+        public PatoBorracha()
+        {
+            Bico = "Amarelo";
+            Asa = "Borracha";
+        }
+
         public override void Quack()
         {
             Console.WriteLine("Quack!");
