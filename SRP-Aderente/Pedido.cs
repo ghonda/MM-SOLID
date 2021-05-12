@@ -2,15 +2,13 @@
 
 namespace SRP_Aderente
 {
-    class Pedido
+    internal class Pedido
     {
         public long Quantidade { get; set; }
         public DateTime Data { get; set; }
 
-        private ILogger _infoLogger;
-        private EnviarEmail _enviarEmail;
-
-        
+        private readonly ILogger _infoLogger;
+        private readonly EnviarEmail _enviarEmail;
 
         public Pedido(ILogger infoLogger, EnviarEmail enviarEmail)
         {
