@@ -10,3 +10,4 @@ C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\
 C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.dll
 C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.pdb
 C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.genruntimeconfig.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\ISP-Aderente\obj\Debug\netcoreapp3.1\ISP-Aderente.csprojAssemblyReference.cache

@@ -2,7 +2,7 @@
 
 namespace ISP_Violacao
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {

@@ -1,0 +1,13 @@
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\bin\Debug\netcoreapp3.1\DIP-Aderente.exe
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\bin\Debug\netcoreapp3.1\DIP-Aderente.deps.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\bin\Debug\netcoreapp3.1\DIP-Aderente.runtimeconfig.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\bin\Debug\netcoreapp3.1\DIP-Aderente.runtimeconfig.dev.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\bin\Debug\netcoreapp3.1\DIP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\bin\Debug\netcoreapp3.1\DIP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\obj\Debug\netcoreapp3.1\DIP-Aderente.csprojAssemblyReference.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\obj\Debug\netcoreapp3.1\DIP-Aderente.AssemblyInfoInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\obj\Debug\netcoreapp3.1\DIP-Aderente.AssemblyInfo.cs
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\obj\Debug\netcoreapp3.1\DIP-Aderente.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\obj\Debug\netcoreapp3.1\DIP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\obj\Debug\netcoreapp3.1\DIP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\DIP-Aderente\obj\Debug\netcoreapp3.1\DIP-Aderente.genruntimeconfig.cache

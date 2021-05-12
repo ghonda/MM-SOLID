@@ -2,3 +2,12 @@ C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\
 C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.AssemblyInfoInputs.cache
 C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.AssemblyInfo.cs
 C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\bin\Debug\netcoreapp3.1\SRP-Aderente.exe
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\bin\Debug\netcoreapp3.1\SRP-Aderente.deps.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\bin\Debug\netcoreapp3.1\SRP-Aderente.runtimeconfig.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\bin\Debug\netcoreapp3.1\SRP-Aderente.runtimeconfig.dev.json
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\bin\Debug\netcoreapp3.1\SRP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\bin\Debug\netcoreapp3.1\SRP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.dll
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.pdb
+C:\Users\GuilhermeHonda\source\repos\SOLID\SRP-Aderente\obj\Debug\netcoreapp3.1\SRP-Aderente.genruntimeconfig.cache

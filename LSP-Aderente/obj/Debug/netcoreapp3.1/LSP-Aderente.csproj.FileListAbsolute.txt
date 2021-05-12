@@ -10,3 +10,4 @@ C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\
 C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.dll
 C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.pdb
 C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.genruntimeconfig.cache
+C:\Users\GuilhermeHonda\source\repos\SOLID\LSP-Aderente\obj\Debug\netcoreapp3.1\LSP-Aderente.csprojAssemblyReference.cache

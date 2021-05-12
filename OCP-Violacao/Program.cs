@@ -2,31 +2,16 @@
 
 namespace OCP_Violacao
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
-            Pedido pedido1 = new Pedido();
+            Debito debito = new Debito();
 
-            var valorPedidoClienteComun =
-               pedido1.DescontoPedido(1000, TipoCliente.Comum);
-
-            var valorPedidoClienteAssociado =
-                pedido1.DescontoPedido(1000, TipoCliente.Associado);
-
-            var valorPedidoClienteEspecial =
-                pedido1.DescontoPedido(1000, TipoCliente.Especial);
+            debito.Debitar(1000, TipoDebito.ContaCorrente);
+            debito.Debitar(1000, TipoDebito.Poupanca);
 
             Console.WriteLine("Principio OCP - Violação");
-
-            Console.WriteLine($"Cliente Comum = " +
-                $"{valorPedidoClienteComun}");
-
-            Console.WriteLine($"Cliente Associado = " +
-                $"{valorPedidoClienteAssociado}");
-
-            Console.WriteLine($"Cliente Especial = " +
-                $" {valorPedidoClienteEspecial}");
 
             Console.ReadLine();
         }

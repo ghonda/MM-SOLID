@@ -2,7 +2,7 @@
 
 namespace DIP_Violacao
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {

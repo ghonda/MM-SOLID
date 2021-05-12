@@ -10,6 +10,8 @@ namespace SRP_Aderente
         private ILogger _infoLogger;
         private EnviarEmail _enviarEmail;
 
+        
+
         public Pedido(ILogger infoLogger, EnviarEmail enviarEmail)
         {
             _infoLogger = infoLogger;
